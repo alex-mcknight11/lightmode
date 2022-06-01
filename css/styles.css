@@ -1,0 +1,23 @@
+.column {
+ float: left;
+  width: 25%;
+  padding: 20px;
+  border: white;
+  border-width: 20px;
+  background-color: aquamarine;
+  margin: 10px;
+  height: 800px;
+}
+
+.title{
+  text-align: center;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.darkMode {
+  background-color: black;
+  color: white;
+}
